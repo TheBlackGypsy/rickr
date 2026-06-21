@@ -2,7 +2,7 @@
 cyber profile
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Update the README.md file by completing the broken hyperlink for the KQL Maps project in the PURPLE TEAM section, ensuring the full URL is included: [#################################################################################################].4274D9center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm Rick Robinson!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4274D9center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm Rick Robinson!;" />
 </h1>
 
 <h3 align="center">Programmer | Cybersecurity Professional 🔐</h3>
